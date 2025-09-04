@@ -13,7 +13,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
       - name: checkout action 
-        uses: action/checkout@v3
+        uses: actions/checkout@v3
 
 
       
